@@ -1,0 +1,124 @@
+{"playerAverage": 7.466666666666666}{"playerAverage": 3.4333333333333336, "scorerPlayer": 6.5}{"playerAverage": 3.2999999999999994, "scorerPlayerAverage": 6.6}{"playerAverage": 11.0, "scorerPlayerAverage": 18.0, "bestPlayerName": "Third"}{"avgMatchPlayer": 93.8}{"handicapAverage": 93.8}{"last10matchScore": 114.0}{"avgMatchPlayer": 105.1}{"handicapAverage": 108.2}{"last10matchScore": 102.0}{"lowGuess": 103.55}{"GeneralAverage": 105.875}{"GeneralAveragediv3": 105.10000000000001}{"avgMatchPlayer": 116.1}{"handicapAverage": 110.6}{"last10matchScore": 116.1}{"GeneralAveragediv3": 114.26666666666665}{"lowGuess": 116.1}{"GeneralAverage": 113.35}{"MutualMatchResults": 119.4}{"MutualMatchResults": 114.9}{"generalaverageteams": 109.61}{"lastAverage": 112.255}{"generalaverageteams": 109.68}{"lastAverage": 112.29}{"lastAverageGENERAL": 111.37333333333333}{"lastAverageGENERAL": 111.42}{"MutualMatchResultsFirst": 119.4, "MutualMatchResultsSecond": 110.4}{"MutualMatchResultsFirst": 119.4, "MutualMatchResultsSecond": 110.4}{"FirstTeamScore": 112.635, "SecondTeamScore": 111.875}{"lastScore": 224.51, "over_under": "OVER", "parameter": 212.5}{"FirstTeamScore": 112.25, "SecondTeamScore": 112.33000000000001}{"lastScore": 224.58, "over_under": "OVER", "parameter": 212.5}{"number_def_avg_first": 100.9, "hand_def_avg_first": 110.8, "number_def_avg_second": 105.8, "hand_def_avg_second": 98.4, "first_num_def_gen": 105.85, "second_num_def_gen": 102.1}{"FirstTeamScore": 110.375, "SecondTeamScore": 108.61666666666667}{"lastScore": 218.99166666666667, "over_under": "OVER", "parameter": 212.5}{
+  "FirstTeamScore": 26.333333333333332,
+  "SecondTeamScore": 34.0
+}{"lastScore": 60.33333333333333, "over_under": "OVER", "parameter": 5.0}{
+  "FirstTeamScore": 33.666666666666664,
+  "SecondTeamScore": 12.333333333333334
+}{
+  "lastScore": 46.0,
+  "over_under": "OVER",
+  "parameter": 9.0
+}{
+  "FirstTeamScore": 97.0,
+  "SecondTeamScore": 96.0
+}
+{
+  "lastScore": 193.0,
+  "over_under": "OVER",
+  "parameter": 1.0
+}
+{
+  "FirstTeamScore": 53.0,
+  "SecondTeamScore": 220.33333333333334
+}
+
+{
+  "lastScore": 273.33333333333337,
+  "over_under": "OVER",
+  "parameter": 5.0
+}
+
+{
+  "avgMatchPlayer": 102.4
+}
+
+{
+  "avgMatchPlayer": 115.8
+}
+
+{
+  "last10matchScore": 104.5
+}
+
+{
+  "last10matchScore": 114.8
+}
+
+{
+  "handicapAverage": 104.2
+}
+
+{
+  "handicapAverage": 110.0
+}
+
+{
+  "MutualMatchResultsFirst": 111.2,
+  "MutualMatchResultsSecond": 113.2
+}
+
+{
+  "number_def_avg_first": 107.0,
+  "hand_def_avg_first": 107.4,
+  "number_def_avg_second": 111.5,
+  "hand_def_avg_second": 112.8,
+  "first_num_def_gen": 107.2,
+  "second_num_def_gen": 112.15
+}
+
+{
+  "lowGuess": 103.45
+}
+
+{
+  "GeneralAverage": 103.825
+}
+
+{
+  "lowGuess": 115.3
+}
+
+{
+  "GeneralAverage": 112.65
+}
+
+{
+  "GeneralAveragediv3": 103.7
+}
+
+{
+  "GeneralAveragediv3": 113.53333333333335
+}
+
+{
+  "FirstTeamScore": 107.28333333333335,
+  "SecondTeamScore": 113.55
+}
+
+{
+  "lastScore": 220.83333333333334,
+  "over_under": "OVER",
+  "parameter": 218.5
+}
+
+{
+  "FirstTeamScore": 107.36666666666667,
+  "SecondTeamScore": 112.96
+}
+
+{
+  "lastScore": 220.32666666666665,
+  "over_under": "OVER",
+  "parameter": 218.5
+}
+
+{
+  "FirstTeamScore": 107.40666666666665,
+  "SecondTeamScore": 112.66666666666667
+}
+
+{
+  "lastScore": 220.07333333333332,
+  "over_under": "OVER",
+  "parameter": 218.5
+}

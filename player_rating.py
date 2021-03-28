@@ -1,4 +1,4 @@
-
+import json
 # first and seconde at the same team
 
 avgList = []       
@@ -16,7 +16,31 @@ def thirdPlayerRating(avgList):
 
 def average(avgList):
     avg = sum(avgList)/len(avgList)
+    first = avgList[0]
+    second = avgList[1]
+    third = avgList[2]
+    if first > second and first > third:
+        bestPlayerAverage = first
+        bestPlayerName = "First"
+        print("First is the scorer player!!!!") 
+    elif second > first and second > third:
+        bestPlayerAverage = second
+        bestPlayerName = "Second"
+        print("Second is the scorer player!!!!")
+    elif third > first and third > second:
+        bestPlayerAverage = third
+        bestPlayerName = "Third"
+        print("Third is the scorer player!!!!")
+
+    average = { "playerAverage": avg,
+                "scorerPlayerAverage" : bestPlayerAverage,
+                "bestPlayerName" : bestPlayerName
+               } 
+
+    with open('record.txt', 'a') as file:
+     file.write(json.dumps(average))
     
+  
     return avg 
 
 
